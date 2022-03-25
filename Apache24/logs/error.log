@@ -1,0 +1,18 @@
+[Tue Jul 23 18:27:12.798784 2019] [ssl:warn] [pid 11036:tid 676] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jul 23 18:27:12.817012 2019] [ssl:warn] [pid 11036:tid 676] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jul 23 18:27:12.817012 2019] [mpm_winnt:notice] [pid 11036:tid 676] AH00455: Apache/2.4.39 (Win64) OpenSSL/1.1.1c configured -- resuming normal operations
+[Tue Jul 23 18:27:12.817012 2019] [mpm_winnt:notice] [pid 11036:tid 676] AH00456: Server built: May 29 2019 21:57:40
+[Tue Jul 23 18:27:12.817012 2019] [core:notice] [pid 11036:tid 676] AH00094: Command line: 'C:\\AppServ\\Apache24\\bin\\httpd.exe -d C:/AppServ/Apache24'
+[Tue Jul 23 18:27:12.819006 2019] [mpm_winnt:notice] [pid 11036:tid 676] AH00418: Parent: Created child process 10040
+[Tue Jul 23 18:27:13.023990 2019] [ssl:warn] [pid 10040:tid 580] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jul 23 18:27:13.037576 2019] [ssl:warn] [pid 10040:tid 580] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jul 23 18:27:13.038571 2019] [mpm_winnt:notice] [pid 10040:tid 580] AH00354: Child: Starting 64 worker threads.
+Starting the 'Apache24' service
+The 'Apache24' service is running.
+ssl:warn] [pid 10768:tid 636] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Mar 25 05:24:48.782015 2022] [mpm_winnt:notice] [pid 10768:tid 636] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.10 configured -- resuming normal operations
+[Fri Mar 25 05:24:48.782015 2022] [mpm_winnt:notice] [pid 10768:tid 636] AH00456: Server built: Aug 10 2019 13:33:27
+[Fri Mar 25 05:24:48.782015 2022] [core:notice] [pid 10768:tid 636] AH00094: Command line: 'C:\\AppServ\\Apache24\\bin\\httpd.exe -d C:/AppServ/Apache24'
+[Fri Mar 25 05:24:48.876222 2022] [mpm_winnt:notice] [pid 10768:tid 636] AH00418: Parent: Created child process 8452
+[Fri Mar 25 05:24:49.644953 2022] [ssl:warn] [pid 8452:tid 428] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Mar 25 05:24:49.661002 2022] [mpm_winnt:notice] [pid 8452:tid 428] AH00354: Child: Starting 64 worker threads.
